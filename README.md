@@ -30,3 +30,5 @@ A repo to play with for my mini workshop.
 * http://stackoverflow.com/questions/927358/how-to-undo-last-commits-in-git
 * https://github.com/Nezteb/Git_Is_Hard
 * https://git-scm.com/book/en/v2
+* https://chris.beams.io/posts/git-commit/
+* http://happygitwithr.com/big-picture.html
